@@ -167,6 +167,7 @@ if __name__ == '__main__':
     print_info(ext_video, video)
     print_info(ext_picture, picture)
     print_info(ext_archive, archive)
+    print( '\n', '      EXTENSIONS UNKNOWN TO THE SCRIPT  ','\n')
     print_info(ext_my_other, my_other)
 
 
